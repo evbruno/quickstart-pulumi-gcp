@@ -1,0 +1,4 @@
+config:
+  gcp:project: true-eye-778
+  gcp:credentials: credentials.json
+  gcp:region: us-central1
